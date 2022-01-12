@@ -1,4 +1,4 @@
 # Sprint-1
 
-First group project with Laura S, Lisa B, Nadia L, Sofie P, Rijad I. 
+Intro days , first group project with Laura S, Lisa B, Nadia L, Sofie P, Rijad I using mob programming
 
